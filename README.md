@@ -1,7 +1,7 @@
 # Hope-Hand
 Plain HTML website for HopeHands Foundation, a fictional NGO in South Africa. Includes 5 pages (Home, About, Services, Enquiry, Contact) with inline styling only. Showcases mission, services, and community impact.
 
-# HopeHands Foundation
+## HopeHands Foundation
 
 A simple static website for HopeHands Foundation, a fictional humanitarian NGO based in South Africa.
 
@@ -34,5 +34,7 @@ The enquiry form uses `mailto:hello@hopehands.com` so the static pages can open 
 
 ## Image references
 
-The two community photographs are loaded from Unsplash image URLs and should be replaced with approved, rights-cleared organisation photography before production launch.
+The two community photographs are loaded from Unsplash image URLs, rights-cleared organisation photography before production launch.
+https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1000&q=80
+https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&w=1000&q=80
 
