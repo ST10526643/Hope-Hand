@@ -1,7 +1,3 @@
-# Hope-Hand
-
-Responsive HTML and CSS website for HopeHands Foundation, a fictional humanitarian NGO in South Africa. The website provides information about the organisation, its services, mission, and community impact.
-
 ## HopeHands Foundation
 
 HopeHands Foundation is a fictional South African NGO focused on supporting vulnerable communities through food distribution, clothing donations, educational support, and community outreach.
