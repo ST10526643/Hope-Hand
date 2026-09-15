@@ -1,36 +1,79 @@
 # Hope-Hand
-Plain HTML website for HopeHands Foundation, a fictional NGO in South Africa. Includes 5 pages (Home, About, Services, Enquiry, Contact) with inline styling only. Showcases mission, services, and community impact.
+
+Responsive HTML and CSS website for HopeHands Foundation, a fictional humanitarian NGO in South Africa. The website provides information about the organisation, its services, mission, and community impact.
 
 ## HopeHands Foundation
 
-A simple static website for HopeHands Foundation, a fictional humanitarian NGO based in South Africa.
+HopeHands Foundation is a fictional South African NGO focused on supporting vulnerable communities through food distribution, clothing donations, educational support, and community outreach.
 
-## Files
+## Pages
 
-- `index.html` - Home page with a short introduction and hero image.
-- `services.html` - Food, clothing and education services.
-- `about.html` - Organisation history, mission, vision and values.
+- `index.html` - Home page with introduction and hero image.
+- `services.html` - Organisation services and community support.
+- `about.html` - History, mission, vision and values.
 - `enquiry.html` - Volunteer and sponsor enquiry form.
-- `contact.html` - Contact details and locations.
+- `contact.html` - Contact information and locations.
 
-## Local preview
+## Part 2 Updates
 
-Open `index.html` directly in a browser. No build step, CSS file or JavaScript is required.
+- Added an external `style.css` stylesheet.
+- Improved typography, colours, spacing and overall visual design.
+- Added a CSS reset and consistent base styling.
+- Used Flexbox/Grid to improve the page layout.
+- Added hover and focus effects to interactive elements.
+- Made existing images responsive.
+- Added responsive layouts for desktop, tablet and mobile screens.
+- Improved accessibility with meaningful image alt text and readable content.
+- Added comments to important HTML and CSS sections.
+- Tested the website at different screen sizes to improve usability.
+
+## Responsive Breakpoints
+
+- **Desktop:** 1200px and above
+- **Tablet:** 768px–1199px
+- **Mobile:** Below 768px
+
+## Local Preview
+
+Open `index.html` directly in a web browser. The website uses HTML and CSS and does not require a build process.
 
 ## Deployment
 
-Upload all five HTML files to the public web directory on Host Africa shared hosting. The planned domain is `hopehands.com`.
+The five HTML pages and `style.css` can be uploaded to Host Africa shared hosting.
 
-The enquiry form uses `mailto:hello@hopehands.com` so the static pages can open an email client without a server-side application. Replace the fictional contact details with the organisation's real details before launch.
+The enquiry form uses `mailto:hello@hopehands.com` to open an email client. Fictional contact details should be replaced with real details before launch.
 
-## Project assumptions
+## Project Information
 
-- Hosting: Host Africa, estimated at R99-R360 per month.
-- Domain: `hopehands.com`, estimated at R269 per year.
-- Development tools: HTML and VS Code.
-- Design resources: optional stock images/icons, estimated at R300-R500 once-off.
-- Maintenance: annual updates, backups and fixes, estimated at R500-R800.
-- Estimated total: R1,457-R4,589 per year.
+- **Hosting:** Host Africa
+- **Domain:** `hopehands.com`
+- **Development Tools:** HTML, CSS and VS Code
+- **Maintenance:** Regular updates, backups and fixes
+
+## Screenshots
+
+Responsive screenshots will be included below to demonstrate the website on:
+
+- Desktop
+- Tablet
+- Mobile
+
+## Changelog
+
+### Part 2
+
+- Implemented improvements based on Part 1 feedback.
+- Added external CSS styling.
+- Improved the desktop layout using modern CSS techniques.
+- Added responsive design for tablet and mobile devices.
+- Improved typography, spacing, colours and navigation.
+- Made images responsive.
+- Added accessibility improvements and code comments.
+- Added responsive testing and screenshot evidence.
+
+### Project Rule
+
+Existing HTML files, folders, images, navigation links and file names have been preserved. No existing files were renamed, moved or deleted.
 
 ## Image references
 
