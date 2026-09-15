@@ -46,14 +46,6 @@ The enquiry form uses `mailto:hello@hopehands.com` to open an email client. Fict
 - **Development Tools:** HTML, CSS and VS Code
 - **Maintenance:** Regular updates, backups and fixes
 
-## Screenshots
-
-Responsive screenshots will be included below to demonstrate the website on:
-
-- Desktop
-- Tablet
-- Mobile
-
 ## Changelog
 
 ### Part 2
